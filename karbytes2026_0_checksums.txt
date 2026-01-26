@@ -58,7 +58,7 @@ file_24: karbytes_wayback_machine_saves_precision_batches_extension_1-main_27jan
 
 file_25: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd9583723c870409f0e234cef777a14abe57ca2d7ab
 
-file_26: KARLINA_OBJECT_extension_pack_56-main_27january2026.zip // SHA-256: c8c5a9b21e369bd592de430043093c5fe879988d557da897c310fa0f47838e7c
+file_26: KARLINA_OBJECT_extension_pack_56-main_27january2026.zip // SHA-256: cc338df43b9f518647b1ffbb55bf78844479f11cdb28b079b62abdc2676047e3
 
 file_27: karbytes_basement_46-main.zip // SHA-256: ab9122509176957938ff423f8591b4afa4c1555f449d5b832df8069b47c5e693
 
