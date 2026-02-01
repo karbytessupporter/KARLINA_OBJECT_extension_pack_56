@@ -1,0 +1,11 @@
+/**
+ * file: journal_karbytes_31january2026_p0.txt
+ * type: plain-text
+ * date: 01_FEBRUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I noticed that, within two days of getting the (gasoline, pre-2000s) car back (which legally belongs to my parents but which primarily I am or have been using to commute to work/events since late 2025) from the repair shop that "my" car has a consistent "check engine" light again. It seems I'm being pressured into losing my job due to car breakdown and, also, with having little to no use of the car as a private vehicle for karbytes to use. To be on the safe side, karbytes plans on transitioning to mostly if not exclusively walking/biking/BART/bus/ride_share to/from the work site (and packing for possible overnight camping in the baylands when BART is closed).
+
+#informationcrystals #projects #github 
