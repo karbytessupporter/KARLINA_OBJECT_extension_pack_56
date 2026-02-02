@@ -1,0 +1,37 @@
+/**
+ * file: journal_karbytes_02february2026_p0.txt
+ * type: plain-text
+ * date: 02_FEBRUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I've been having the following thoughts for the past few days (but, in all honesty, those thoughts have probably been recurring in my mind (at least as preliminary versions of what follows in this journal entry) for several years). I think the best way to represent those thoughts is in the form of some dialog between imaginary persons karbytes_0 and karbytes_1.
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_declaration_of_grand_demands/
+
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_23september2025/
+
+* * *
+
+karbytes_0: "Minimizing all suffering throughout all existence seems to be the primary ethical directive for all agential beings."
+
+karbytes_1: "In order for the universe (and, by extension, the (hypothetical) larger all-encompassing multiverse) to exist in all the configurations it has (especially the configuration we currently are witnessing and taking part of), some degree of suffering greater than zero has had to exist for at least one sentient frame of reference: you and/or I."
+
+karbytes_0: "Are you suggesting that it is futile for me to try to live by the imperative to 'do no harm' or, at the very least, 'always strive to minimize the harm which is dealt to any and all sentient entities'?"
+
+karbytes_1: "The answer to your question depends on whether or not you value aligning your own behavior to that ethical imperative and to what degree (and according to which criteria). I assume you prioritize the welfare of human individuals over the welfare of bacteria given that humans have more complex nervous systems than what bacteria have (which means that it is logical for you (and other people) to assume that humans have the capacity to suffer more severely than bacteria suffer (which means that, if there is a competition between humans and bacteria for survival and thrival resources, your thoughts and behavior would exhibit favoritism towards your own species: humans))."
+
+karbytes_0: "You are right about your assumptions about how I would prioritize my investments where humans and bacteria are implicit or explicit competitor species. I would take it even further by suggesting that I would probably favor investing resources in humans who seem to be more similar to me or more likeable to me or more useful to me over humans who are less similar to me or less likeable to me or less useful to me. That is because, as an egotist, I favor my own welfare or happiness over that of any other entity (because myself is the most fundamental unit of what enables me to exist in material form and as a time-bound pattern of information which gradually or dramatically changes across the time interval in which my body is alive). The most efficient use of my resources seems to be to investing in my own survival and thrival first and foremost, but perhaps it is most efficient and pain-free for me cater to the demands other people make of me to prioritize their survival and thrival over my own."
+
+karbytes_1: "I see what you mean because it makes logical sense (especially in terms of a system attempting to conserve resources for the aim of mainting as much of its 'essential' components as possible). If everyone volunteered to sacrifice themselves so that other people could survive and/or thrive in that person's place, then the human species could potentially make itself go extinct because every one of its members politely offers to sacrifice themselves on behalf of the species. That seems to fulfill your proposed ethic of minimizing the net suffering of existence (especially within the species) because, if everyone 'chooses' to forgo survival and/or thrival instead of fighting over having the 'right' to claim such things at the expense of other people, then the species could at least go extinct in a relatively non-violent and non-chaotic manner."
+
+karbytes_0: "Are you willing to sacrifice your own survival and/or thrival so that any humans other than yourself can enjoy enhanced survival and/or thrival? Or would you fight against relinquishing your own survival and/or thrival at other people's expense?"
+
+karbytes_1: "I would probably favor myself in that occasion because, like you, I am also a staunch egotist."
+
+karbytes_0: "Let's hope that we get to survive and thrive for as long as we want to."
+
+karbytes_1: "Do you think that overpopulation is the source of most of humanity's problems?"
+
+karbytes_0: "I'm inclined to say yes, but I think there is more to the story than mere overpopulation. I think cognitive bias might be what is causing humanity the most 'preventable' suffering."
